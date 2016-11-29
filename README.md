@@ -1,9 +1,4 @@
-Test
+Sandbox của repo Demo 
 ====
 
-Repo để GV test, bắt chước 1 nhóm SV
-
-Danh sách thành viên:  
-- lxdinh,  bixycler 
-- htthanh, hotuanthanh
-+ lexuandinhct,  CreatZier
+Nhánh sanbox là nhánh chỉ dùng để thử nghiệm và không bao giờ được merge vào nhánh master.
